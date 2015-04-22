@@ -32,3 +32,5 @@ hs_err_pid*
 
 /.nb-gradle/private/
 /build/
+.nb-gradle
+.gradle
